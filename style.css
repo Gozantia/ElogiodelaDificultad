@@ -47,7 +47,7 @@ header {
 code {
   display: block;
   text-align: left;
-  white-space: pre;
+  white-space: inherit;
   position: relative;
   word-break: normal;
   word-wrap: normal;
